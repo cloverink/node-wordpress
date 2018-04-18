@@ -13,6 +13,8 @@
     "test": "jshint lib/*"
   },
   "dependencies": {
+    "mysql": "^2.15.0",
+    "promise-mysql": "^3.2.1",
     "xmlrpc": "1.3.2"
   },
   "devDependencies": {
